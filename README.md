@@ -1,6 +1,8 @@
 # Delhi Metro Operations Optimization using Python
 
-This project demonstrates how to optimize metro operations using data-driven techniques. It uses real-world data and Python for analysis and visualization, aiming to improve service efficiency, reliability, and effectiveness.
+This project demonstrates how to optimize metro operations using data-driven techniques. It uses real-world data from General Transit Feed Specification and Python for analysis and visualization, aiming to improve service efficiency, reliability, and effectiveness.
+
+Dataset Link- https://otd.delhi.gov.in/documentation/
 
 ## Table of Contents
 
